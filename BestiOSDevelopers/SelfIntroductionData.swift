@@ -321,13 +321,13 @@ let people: [SelfIntroduction] = [
     ),
     SelfIntroduction(
         name: "김종성",
-        trainingPurpose: "ABCDEFG",
-        hobby: "ABCDEFG",
-        mbti: "ABCDEFG",
-        strength: "ABCDEFG",
+        trainingPurpose: "asdfasd",
+        hobby: "sadfasd",
+        mbti: "asdfasd",
+        strength: "asdfdsafd",
         sns: nil,
-        etc: "ABCDEFG",
-        job: "ABCDEFG"
+        etc: "sadfads",
+        job: "asdfadsf"
     ),
     SelfIntroduction(
         name: "이주용",
