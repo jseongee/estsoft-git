@@ -176,7 +176,7 @@ let people: [SelfIntroduction] = [
         mbti: "INFP",
         strength: "효율성을 추구하는 것",
         sns: nil,
-        etc: "다들 잘 부탁드립니다",
+        etc: "다들 잘 부탁드립니다","ㅇㄴㅁㅇㅁㄴ"
         job: "학생"
     ),
     SelfIntroduction(
