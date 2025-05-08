@@ -322,7 +322,7 @@ let people: [SelfIntroduction] = [
     SelfIntroduction(
         name: "김종성",
         trainingPurpose: "asdfasd",
-        hobby: "sadfasd",
+        hobby: "Youtube",
         mbti: "asdfasd",
         strength: "asdfdsafd",
         sns: nil,
