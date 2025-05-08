@@ -325,7 +325,7 @@ let people: [SelfIntroduction] = [
         hobby: "sadfasd",
         mbti: "asdfasd",
         strength: "asdfdsafd",
-        sns: nil,
+        sns: "ㅁㄴㅇㄹㄴㅁㄹㅇ",
         etc: "sadfads",
         job: "asdfadsf"
     ),
