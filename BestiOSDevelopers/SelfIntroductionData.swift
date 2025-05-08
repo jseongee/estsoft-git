@@ -326,7 +326,7 @@ let people: [SelfIntroduction] = [
         mbti: "asdfasd",
         strength: "asdfdsafd",
         sns: nil,
-        etc: "sadfads",
+        etc: "😀",
         job: "asdfadsf"
     ),
     SelfIntroduction(
