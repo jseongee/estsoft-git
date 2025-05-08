@@ -300,14 +300,14 @@ let people: [SelfIntroduction] = [
         job: "카카오 - iOS 개발자"
     ),
     SelfIntroduction(
-        name: "김재훈",
-        trainingPurpose: "iOS 개발자가 되기 위한 훈련 참여",
-        hobby: "로스트아크",
-        mbti: "INTP",
-        strength: "끈기와 실행력",
+        name: "김재훈 (성주현 수정함)",
+        trainingPurpose: "iOS 개발자가 되기 위한 훈련 참여 (성주현 수정함)",
+        hobby: "로스트아크 (성주현 수정함)",
+        mbti: "INTP (성주현 수정함)",
+        strength: "끈기와 실행력 (성주현 수정함)",
         sns: nil,
-        etc: "열심히 수료하고 취업하겠습니다!",
-        job: "무직"
+        etc: "열심히 수료하고 취업하겠습니다! (성주현 수정함)",
+        job: "무직 (성주현 수정함)"
     ),
     SelfIntroduction(
         name: "김서현",
