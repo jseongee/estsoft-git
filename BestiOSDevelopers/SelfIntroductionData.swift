@@ -172,7 +172,7 @@ let people: [SelfIntroduction] = [
     SelfIntroduction(
         name: "성주현",
         trainingPurpose: "git 배우기",
-        hobby: "음악, 영화 감상, 게임 등",
+        hobby: "음악, 넷플릭스, 게임, 낮잠자기 등",
         mbti: "INFP",
         strength: "효율성을 추구하는 것",
         sns: nil,
