@@ -320,11 +320,11 @@ let people: [SelfIntroduction] = [
         job: "마이크로소프트 - iOS 개발자"
     ),
     SelfIntroduction(
-        name: "김종성",
-        trainingPurpose: "asdfasd",
-        hobby: "sadfasd",
+        name: "김종성(수정a)",
+        trainingPurpose: "asdfasd(수정a)",
+        hobby: "sadfasd(수정a)",
         mbti: "asdfasd",
-        strength: "asdfdsafd",
+        strength: "asdfdsafd(수정a)",
         sns: nil,
         etc: "sadfads",
         job: "asdfadsf"
