@@ -324,7 +324,7 @@ let people: [SelfIntroduction] = [
         name: "김종성",
         trainingPurpose: "asdfasd",
         hobby: "Youtube",
-        mbti: "asdfasd",
+        mbti: "ISFJ",
         strength: "asdfdsafd(수정a)",
         sns: nil,
         etc: "😀",
