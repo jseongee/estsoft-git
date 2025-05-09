@@ -306,7 +306,7 @@ let people: [SelfIntroduction] = [
         mbti: "INTP",
         strength: "끈기와 실행력",
         sns: nil,
-        etc: "열심히 수료하고 취업하겠습니다!","하사전역","화이팅"
+        etc: "열심히 수료하고 취업하겠습니다!","화이팅해보겠습니다"
         job: "예비군 2년차"
     ),
     SelfIntroduction(
